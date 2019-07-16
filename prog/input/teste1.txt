@@ -1,0 +1,13 @@
+admin
+1
+2
+1 3 kassia
+2 2 usiel
+1
+4
+0 0
+1 3
+2
+sim
+jogador
+

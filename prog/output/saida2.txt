@@ -1,0 +1,160 @@
+Digite a unidade de comando.
+Exemplo: admin
+
+
+	BEM VINDO AO 'MENU ADMINISTRADOR'
+E NECESSARIO CONFIGURAR O JOGO ANTES DE COMECAR
+
+Digite:
+1) Para Inserir Jogadores.
+2) Eliminar Jogadores.
+3) Mudar Grupo de Jogador.
+4) Inserir Pokemons no Mapa.
+Digite a quantidade de Jogadores que deseja inserir.
+
+Digite todos os jogadores da seguinte forma:
+id do jogador, id do Grupo e o nome do jogador.
+Exemplo: 1 3 Joao Maria
+Os ids de grupos existentes sao: 1(Amarelo), 2(Azul) ou 3(Vermelho)
+
+O(s) jogador(es) foram inseridos com sucesso
+
+Deseja executar mais algum comando do 'MENU ADMINISTRADOR'? Digite:
+1) Sim.
+2) Nao.
+
+Digite:
+1) Para Inserir Jogadores.
+2) Eliminar Jogadores.
+3) Mudar Grupo de Jogador.
+4) Inserir Pokemons no Mapa.
+
+Digite a posicao (coluna, linha) que deseja inserir seu pokemon.
+Exemplo: 2 2.
+
+Digite o id do pokemon e a quantidade que deseja inserir
+Exemplo: 1 3.
+
+Pokemon(s) inserido(s) com sucesso.
+
+Deseja executar mais algum comando do 'MENU ADMINISTRADOR'? Digite:
+1) Sim.
+2) Nao.
+
+Digite:
+1) Para Inserir Jogadores.
+2) Eliminar Jogadores.
+3) Mudar Grupo de Jogador.
+4) Inserir Pokemons no Mapa.
+
+Digite a posicao (coluna, linha) que deseja inserir seu pokemon.
+Exemplo: 2 2.
+
+Digite o id do pokemon e a quantidade que deseja inserir
+Exemplo: 1 3.
+
+Pokemon(s) inserido(s) com sucesso.
+
+Deseja executar mais algum comando do 'MENU ADMINISTRADOR'? Digite:
+1) Sim.
+2) Nao.
+Digite 'sim' para acessar outra unidade de comando, ou digite 'nao', para encerrar o programa.
+
+Digite a unidade de comando.
+Exemplo: admin
+
+
+Se-prepare(m) jogador(es), pois agora o jogo vai comecar. O objetivo de voces e encontrar todos os pokemons do mapa, o jogo acaba assim que todos os pokemons forem encontrados. GOOD LUCK!!!
+
+
+ID Jogador  ID Grupo  Nome do Jogador
+   1		3	 kassia
+   2		2	 usiel
+
+E hora de realizar as jogadas, e elas podem ser realizadas de duas formas.
+1) Digite uma posicao (coluna,linha) a qual deseja mover o jogador.
+Exemplo: 1,5
+2) Digite um comando unico para se mover (UP,DOWN,LEFT,RIGHT).
+Exemplos: DOWN
+
+O jogador  kassia encontrou este(s) pokemon(s):
+ID do pokemon: 1. Quantidade: 3.
+O jogador  usiel encontrou este(s) pokemon(s):
+ID do pokemon: 1. Quantidade: 3.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+00|02|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+02|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+03|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+04|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+05|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+06|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+07|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+08|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+09|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  Digite uma jogada para o Jogador 1 -  kassia.
+Sua posicao atual em (coluna,linha) eh: (0,0)
+Digite uma jogada para o Jogador 2 -  usiel.
+Sua posicao atual em (coluna,linha) eh: (0,0)
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+00|  |01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+01|01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+02|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+03|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+04|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+05|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+06|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+07|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+08|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+09|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  Digite uma jogada para o Jogador 2 -  usiel.
+Sua posicao atual em (coluna,linha) eh: (0,1)
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+00|  |  |01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+02|01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+03|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+04|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+05|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+06|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+07|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+08|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+09|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  Digite uma jogada para o Jogador 2 -  usiel.
+Sua posicao atual em (coluna,linha) eh: (0,2)
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+00|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+01|  |  |01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+02|  |01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+03|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+04|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+05|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+06|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+07|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+08|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+09|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  Digite uma jogada para o Jogador 2 -  usiel.
+Sua posicao atual em (coluna,linha) eh: (1,2)
+O jogador  kassia encontrou este(s) pokemon(s):
+ID do pokemon: 2. Quantidade: 5.
+O jogador  usiel encontrou este(s) pokemon(s):
+ID do pokemon: 2. Quantidade: 5.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+00|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+01|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+02|  |  |02|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+03|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+04|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+05|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+06|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+07|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+08|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+09|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  
+
+Parabens todos os pokemons foram encontrados. O jogo acabou!!!
